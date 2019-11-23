@@ -1,0 +1,4 @@
+digit-recognizer/train.csv
+digit-recognizer/test.csv
+digit-recognizer/sample.csv
+digit-recognizer/output.csv
